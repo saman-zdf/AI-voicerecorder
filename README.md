@@ -60,8 +60,6 @@ sox --version
 OPENAI_API_KEY=your_key_here
 ```
 
-> **Never share this key publicly.**
-
 ---
 
 ## 4) Install Dependencies
